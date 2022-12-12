@@ -4,7 +4,7 @@ function angkaRomawi($angka)
 	 $angka = intval($angka);
 	 $result = '';
 	 $array = array(
-     'M' => 1000,
+     	 'M' => 1000,
 	 'CM' => 900,
 	 'D' => 500,
 	 'CD' => 400,
